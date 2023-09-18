@@ -15,8 +15,7 @@ Data Analyst, Продуктовый анализ
 Интернет-сервисы
 
 ## Схема
-
-![Image (2)](https://github.com/Natalya-Strizh/Data_Analyst_Yandex/assets/102370778/e1092f3a-289d-49dd-916a-3e19a4ccf68a)
+[![Image-8.png](https://i.postimg.cc/d0XHDGkz/Image-8.png)](https://postimg.cc/B8TcVLCg)
 * `stackoverflow.badges` - хранит информацию о значках, которые присуждаются за разные достижения
 * `stackoverflow.post_types` - содержит информацию о типе постов
 * `stackoverflow.posts` - содержит информацию о постах
