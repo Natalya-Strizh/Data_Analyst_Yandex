@@ -15,7 +15,7 @@ Data Analyst, Финансовая аналитика
 Стартапы, Инвестиции
 
 ## Схема
-![Uploading Image (7).png…]()
+[![Image-7.png](https://i.postimg.cc/pTCNzYcd/Image-7.png)](https://postimg.cc/hzX3qxBF)
 
 * `acquisition` - содержит информацию о покупках одних компаний другими
 * `company` - содержит информацию о компаниях-стартапах.</br>
