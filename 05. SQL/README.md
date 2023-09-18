@@ -15,7 +15,7 @@ Data Analyst, Финансовая аналитика
 Стартапы, Инвестиции
 
 ## Схема
-![Image (1)](https://github.com/Natalya-Strizh/Data_Analyst_Yandex/assets/102370778/3645d5fd-8d01-47cc-870a-19a3a16f634a)
+![Uploading Image (7).png…]()
 
 * `acquisition` - содержит информацию о покупках одних компаний другими
 * `company` - содержит информацию о компаниях-стартапах.</br>
